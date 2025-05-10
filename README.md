@@ -49,6 +49,7 @@ npm start
 ```
 
 📡 API Endpoints
+
 ➕ Create a Proverb
 POST /proverbs
 {
@@ -59,3 +60,27 @@ POST /proverbs
 "meaning": "People eventually cross paths again.",
 "category": "wisdom"
 }
+
+📥 Get All Proverbs
+GET /proverbs
+
+Optional filter:
+/proverbs?category=advice
+
+🔍 Search Proverbs
+GET /proverbs/search?q=practice
+
+🔁 Random Proverb
+GET /proverbs/random
+
+📄 Get Proverb by ID
+GET /proverbs/1
+
+✏️ Update a Proverb
+PUT /proverbs/1
+
+❌ Delete a Proverb
+DELETE /proverbs/1
+
+👤 Author
+Developed by Adela Ahmadi
