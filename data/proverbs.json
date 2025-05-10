@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "textDari": "اول چاه را بکن، بعد منار را بدزد.",
+    "textPashto": "لومړی څاه وکينئ، بيا منار غلا کړئ.",
+    "translationEn": "Dig the well before stealing the minaret.",
+    "meaning": "Prepare before you act.",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "آب که یک جا بماند، می‌گندد.",
+    "textPashto": "اوبه چې ودرېږي، بدبویه کېږي.",
+    "translationEn": "Still water becomes stagnant.",
+    "meaning": "Lack of movement or change leads to decay or problems.",
+    "category": "wisdom"
+  },
+  {
+    "id": 3,
+    "textDari": "هر که طاووس خواهد، جور هندوستان کشد.",
+    "textPashto": "چا چې طاووس غواړي، باید د هند تکلیف وزغمي.",
+    "translationEn": "He who wants a peacock must endure the hardship of India.",
+    "meaning": "To achieve something beautiful or valuable, you must go through difficulty.",
+    "category": "advice"
+  },
+  {
+    "id": 4,
+    "textDari": "کوه به کوه نمی‌رسه، آدم به آدم می‌رسه.",
+    "textPashto": "غر له غره نه تېرېږي، خو انسان له انسان سره ګوري.",
+    "translationEn": "Mountains never meet, but people do.",
+    "meaning": "People eventually cross paths again.",
+    "category": "wisdom"
+  }
+]
